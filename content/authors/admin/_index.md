@@ -69,7 +69,7 @@ education:
 #    date_end: 2020-12-31
 #    summary: |
 #      GPA: 3.4/4.0
-      
+#      
 #      Courses included:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
