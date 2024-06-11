@@ -1,5 +1,5 @@
 ---
-title: MA3203 – Ring Theory
+title: MA3203 -- Ring Theory
 summary: An introductory course on representation theory of quivers and Artin algebras.
 date: 2024-01-08
 type: docs
