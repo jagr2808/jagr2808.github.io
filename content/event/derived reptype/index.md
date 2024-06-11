@@ -14,9 +14,9 @@ location: NTNU Trondheim
 
 summary: Derived representation type and G-equivariant spectra
 abstract: 'The problem of classifying indecomposable representations is one of the earliest problems in representation theory. The famous Tame-Wild dichotomy loosely says that algebras split into two groups: those where classifying modules are relatively easily, and those where a classification is completely hopeless. In 2003 a similar dichotomy was proven for perfect complexes in the derived category.
-
+\\
 There is a close relationship between the homotopy category of G-equivariant spectra and the derived category of cohomological MacKey functors. In this talk we look at which groups give rise to derived tame and which give rise to derived wild cohomological MacKey functors.
-
+\\
 (Joint work in progress w/ Clover May)'
 
 # Talk start and end times.
@@ -66,7 +66,7 @@ projects:
   - example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
@@ -76,4 +76,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
