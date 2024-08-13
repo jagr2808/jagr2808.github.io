@@ -1,5 +1,5 @@
 ---
-title: different paper
+title: 'τ-tilting finiteness and g-tameness: Incidence algebras of posets and concealed algebras'
 authors:
 - Erlend D. Børve
 - Jacob Fjeld Grevstad
