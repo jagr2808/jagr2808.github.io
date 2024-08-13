@@ -12,7 +12,14 @@ location: SJTU Shanghai
 #   postcode: '94305'
 #   country: United States
 
-abstract: 'abstract'
+abstract: 'The g-vector fan is a convex-geometric construction to study the τ-tilting theory of an algebra. Using it one extends the notions of tame representation type to τ-tilting theory, by saying that an algebra is g-tame if its g-vector fan is dense in ℝ^n.
+\\
+Tame algebras are always g-tame, but the converse is not true in general.
+\\
+In this talk we show that concealed algebras are g-tame if and only if they are tame. This also implies the same result for incidence algebras of simply connected posets.
+\\
+Joint work w/ Erlend Børve and Endre Rundsveen
+https://arxiv.org/abs/2407.17965'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
