@@ -12,19 +12,12 @@ location: SJTU Shanghai
 #   postcode: '94305'
 #   country: United States
 
-abstract: 'The $\mathbf{g}$-vector fan is a convex-geometric construction to study the $\tau$-tilting theory of an algebra. Using it one extends the notions of tame representation type to $\tau$-tilting theory, by saying that an algebra is $\mathbf{g}$-tame if its $\mathbf{g}$-vector fan is dense in $\mathbb R^n$.
-\\
-Tame algebras are always $\mathbf{g}$-tame, but the converse is not true in general.
-\\
-In this talk we show that concealed algebras are $\mathbf{g}$-tame if and only if they are tame. This also implies the same result for incidence algebras of simply connected posets.
-\\
-Joint work w/ Erlend Børve and Endre Rundsveen
-https://arxiv.org/abs/2407.17965'
+abstract: 'abstract'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-08-09T15:30:00Z'
-#date_end: '2024-02-27T15:15:00Z'
+date_end: '2024-08-09T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -51,3 +44,31 @@ url_code: ''
 url_pdf: ''
 url_slides: 'uploads/Gtame-Algebras-ICRA.pdf'
 url_video: ''
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+  - example
+---
+
+<!-- {{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
