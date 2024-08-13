@@ -1,20 +1,17 @@
 ---
 title: different paper
 authors:
+- Erlend D. Børve
 - Jacob Fjeld Grevstad
-date: '2024-01-01'
-publishDate: '2024-06-10T12:50:54.668143Z'
+- Endre S. Rundsveen
+date: '2024-07-25'
 publication_types:
-- article-journal
-publication: '*Journal of Pure and Applied Algebra*'
-doi: https://doi.org/10.1016/j.jpaa.2023.107603
-abstract: We introduce the concept of an n-minimal Auslander–Gorenstein category and
-  n-precluster tilting subcategory. With this, we create an analog of the higher Auslander–Solberg
-  correspondence (Iyama–Solberg 2018) for exact categories. Our approach is based
-  on the recent generalization of the (higher) Auslander correspondence to exact categories
-  (Henrard–Kvamme–Roosmalen 2020, Ebrahimi–Nasr-Isfahani 2021).
+- preprint
+publication: 'ArXiV'
+doi: https://doi.org/10.48550/arXiv.2407.17965
+abstract: We prove that any τ-tilting finite incidence algebra of a finite poset is representation-finite, and that any g-tame incidence algebra of a finite simply connected poset is tame. As the converse of these assertions are known to hold, we obtain characterizations of τ-tilting finite incidence algebras and g-tame simply connected incidence algebras. Both results are proved using the theory of concealed algebras. The former will be deduced from the fact that tame concealed algebras are τ-tilting infinite, and to prove the latter, we show that wild concealed algebras are not g-tame. We conjecture that any incidence algebra of a finite poset is wild if and only if it is not g-tame, and prove a result showing that there are relatively few possible counterexamples. In the appendix, we determine the representation type of a τ-tilting reduction of a concealed algebra of hyperbolic type. 
 links:
 - name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0022404923002852
+  url: https://www.arxiv.org/abs/2407.17965
 featured: true
 ---
