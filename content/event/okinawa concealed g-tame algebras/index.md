@@ -39,7 +39,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Me giving talk'
+  caption: 'g-vector fans'
   focal_point: Right
 
 #links:
@@ -49,7 +49,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/Gtame-Algebras-ICRA.pdf'
+url_slides: 'uploads/Okinawa-poster.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
