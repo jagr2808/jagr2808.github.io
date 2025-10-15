@@ -12,5 +12,5 @@ abstract: Let k be an arbitrary field of characteristic p and let G be a finite 
 links:
 - name: URL
   url: https://arxiv.org/abs/2509.17604
-featured: true
+featured: false
 ---

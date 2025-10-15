@@ -16,5 +16,5 @@ abstract: We introduce the concept of an n-minimal Auslander–Gorenstein catego
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0022404923002852
-featured: true
+featured: false
 ---
