@@ -4,6 +4,7 @@ authors:
 - Jacob Fjeld Grevstad
 - Clover May
 date: '2025-09-22'
+publishDate: '2025-09-22T12:50:54.668143Z'
 publication_types:
 - preprint
 publication: 'ArXiV'

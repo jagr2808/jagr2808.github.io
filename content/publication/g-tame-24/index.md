@@ -4,7 +4,8 @@ authors:
 - Erlend D. Børve
 - Jacob Fjeld Grevstad
 - Endre S. Rundsveen
-date: '2025-12-15'
+date: '2024-12-15'
+publishDate: '2024-12-15T12:50:54.668143Z'
 publication_types:
 - article-journal
 publication: '*Journal of Algebra*'
